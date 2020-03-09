@@ -1,0 +1,35 @@
+
+.container-fluid {
+    background-color: gainsboro;
+    height: 90px;
+}
+
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.row {
+    margin: 30px;
+}
+
+.grid {
+    background-color: gainsboro;
+    width: 460px;
+    height: 300px;
+    margin-top: 82px;
+    margin-left: 82px;
+}
+
+.grid1 {
+    background-color: gainsboro;
+    width: 1000px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 85px;
+}
