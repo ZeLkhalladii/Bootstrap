@@ -14,14 +14,20 @@
 }
 
 .row {
+
     margin: 30px;
+    position: absolute;
+    left: 10%;
+
+
 }
 
-.col {
+
+.grid {
     background-color: gainsboro;
-    width: 200px;
-    height: 350px;
-    margin-left: 40px;
-    margin-top: 50px;
+    width: 300px;
+    height: 700px;
     border-radius: 20px;
+    margin-top: 30px;
+    margin-left: 85px;
 }

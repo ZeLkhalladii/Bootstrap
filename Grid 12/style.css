@@ -15,13 +15,23 @@
 
 .row {
     margin: 30px;
+    position: absolute;
+    left: 315px;
 }
 
-.col {
+.grid1 {
     background-color: gainsboro;
-    width: 200px;
-    height: 350px;
+    border-radius: 20px;
+    width: 350px;
+    height: 700px;
     margin-left: 40px;
     margin-top: 50px;
+}
+.grid2 {
+    background-color: gainsboro;
+    width: 755px;
+    height: 700px;
+    margin-left: 40px;
     border-radius: 20px;
+    margin-top: 50px;
 }

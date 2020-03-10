@@ -21,6 +21,7 @@
 .grid {
     background-color: gainsboro;
     width: 1200px;
+    border-radius: 20px;
     height: 300px;
     margin-top: 40px;
     margin-left: 85px;

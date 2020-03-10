@@ -1,0 +1,91 @@
+.container-fluid {
+    background-color: gainsboro;
+    height: 90px;
+}
+
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.row {
+    margin: 30px;
+}
+
+.col1 {
+    background-color: gainsboro;
+    width: 400px;
+    height: 200px;
+    margin-left: 40px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.col1 {
+    background-color: gainsboro;
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.col2 {
+    background-color: gainsboro;
+    width: 200px;
+    height: 400px;
+    margin-left: 40px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.col3 {
+    background-color: gainsboro;
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.col4 {
+    background-color: gainsboro;
+    width: 200px;
+    height: 400px;
+    margin-left: 40px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.col5 {
+    background-color: gainsboro;
+    width: 200px;
+    height: 400px;
+    margin-left: 40px;
+    margin-top: -141px;
+    border-radius: 20px;
+}
+.col6 {
+    background-color: gainsboro;
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+    margin-top: 60px;
+    border-radius: 20px;
+}
+.col7 {
+    background-color: gainsboro;
+    width: 200px;
+    height: 400px;
+    margin-left: 40px;
+    margin-top: -138px;
+    border-radius: 20px;
+}
+.col8 {
+    background-color: gainsboro;
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+    margin-top: 60px;
+    border-radius: 20px;
+}

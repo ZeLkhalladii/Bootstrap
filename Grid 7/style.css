@@ -24,10 +24,12 @@
     width: 755px;
     height: 700px;
     margin-left: 40px;
+    border-radius: 20px;
     margin-top: 50px;
 }
 .grid2 {
     background-color: gainsboro;
+    border-radius: 20px;
     width: 350px;
     height: 700px;
     margin-left: 40px;
